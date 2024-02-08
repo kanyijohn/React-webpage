@@ -1,4 +1,3 @@
-
 function NavBar() {
     return (
   <div>
@@ -10,7 +9,7 @@ function NavBar() {
     </nav>
     </div>
   
- )  
+  )  
 }
 
 function Main() {
@@ -28,7 +27,7 @@ function Main() {
         <footer>A React Project (static webpage) by Kanyi.John- FreeCodeCamp</footer>
     </main>
       
-    )
+     )
   }
 
 
